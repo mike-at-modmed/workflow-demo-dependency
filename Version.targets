@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
+    <FileVersion>4.8.0.0</FileVersion>
+    <Version>4.8.0-dev.8</Version>
+    <!-- Release will be <Version>4.8.0</Version> -->
+  </PropertyGroup>
+</Project>
